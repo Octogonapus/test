@@ -1,0 +1,3 @@
+[submodule "BCI-PROSe"]
+	path = BCI-PROSe
+	url = https://github.com/Octogonapus/BCI-PROSe
